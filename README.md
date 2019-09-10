@@ -95,3 +95,14 @@ VisualTreeExtensions封装了`VisualTreeHelper`并提供了各种查询Visual Tr
 继续Measure的话题，这次真的创建了个自定义的Expander。
 
 ![](https://img2018.cnblogs.com/blog/38937/201907/38937-20190724112707672-795921895.gif)
+
+
+[给WPF一个HyperlinkButton](https://www.cnblogs.com/dino623/p/WPF_HyperlinkButton.html)
+
+这篇文章的目的是介绍怎么在WPF里创建自定义的HyperlinkButton控件。
+
+![](https://img2018.cnblogs.com/blog/38937/201908/38937-20190820103534021-181456441.gif)
+
+[关于ScrollViewr和滚动轮劫持(scroll-wheel-hijack)](https://www.cnblogs.com/dino623/p/scroll-wheel-hijack.html)
+
+这篇文章介绍了如何自定义ScrollViewer以避免滚动轮劫持的问题。
